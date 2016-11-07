@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Bonjour
-=======
-bla bla bla
-
-a dieu
->>>>>>> initNouveau
+139 a sat bayn liaa
